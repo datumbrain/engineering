@@ -1,0 +1,24 @@
+title: Engineering — Datum Brain's Best Practices
+author: Datum Brain
+email: info@datumbrain.com
+description:
+  Datum Brain's coding prowess.
+
+twitter_username: datumbrain
+github_username: datumbrain
+facebook_username: datumbrain
+rss: rss
+
+show_excerpts: false
+
+minima:
+  date_format: "%B %-d, %Y"
+
+theme: minima
+
+disqus:
+  shortname: datumbrain
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
