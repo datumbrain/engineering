@@ -10,10 +10,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2, h4, h6 {
+    border: 1px solid lighten($color: #80cbc4, $amount: 15%);
     background: lighten($color: #80cbc4, $amount: 25%);
     color: #80cbc4;
     text-transform: capitalize;
-    border-radius: 8px;
+    border-radius: 3px;
     text-align: right;
     padding-right: 5px;
 }
