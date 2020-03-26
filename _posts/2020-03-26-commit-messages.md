@@ -6,6 +6,8 @@ authorUrl: https://github.com/fahadsiddiqui
 date: "2020-03-26 05:43:49"
 ---
 
+![](/assets/commit-post-image.png)
+
 Formatting commit messages and writing a proper description that reflects the code done can be tiresome. But are an essential part of a growing project. When more than one developers are working on the same code-base as you are, you will experience a lot of back and forth happening. A lot of code getting dumped, some of it reverted, some of it staying in the pull/merge requests for a while.
 
 In distributed teams, this may happen due to not following the same pattern. Conventions are subjective, always. But you can try to bring things, at least, to a common ground where everyone agrees upon it.
