@@ -40,25 +40,25 @@ It is not that much of a work, so may be, we can represent it in one title line 
 
 ## Bad Examples
 
-"Frustrated at 2AM."
+> "Frustrated at 2AM."
 
 ```
 done
 ```
 
-"Too fast, trying out something that might work."
+> "Too fast, trying out something that might work."
 
 ```
 smthing
 ```
 
-"Stubborn as hell."
+> "Stubborn as hell."
 
 ```
 [mgp-1]ds store added in git ignore
 ```
 
-"Won't follow the system. Rebellion."
+> "Won't follow the system. Rebellion."
 
 ```
 [MgP-1] adding `.DS_Store` in .gitignore  file
@@ -66,13 +66,13 @@ smthing
 
 ## Good Examples
 
-"Contributing to the code."
+> "Contributing to the code."
 
 ```
 [MGP-1] Adding `.DS_Store` in .gitignore File
 ```
 
-"Playing my part."
+> "Playing my part."
 
 ```
 [MGP-1] .DS_Store Added in .gitignore
@@ -92,7 +92,7 @@ So for the sake of helping them to understand them (and as lesser questions) you
 
 ## Bad Examples
 
-"Too long & redundant."
+> "Too long & redundant."
 
 ```
 [MGP-2] Scaffolded & Added Configuration Files
@@ -102,7 +102,7 @@ Added configuration files and scaffolded the project, the HOCON boilerplate is a
 
 ## Good examples
 
-"Perfect. Bullet-ed."
+> "Perfect. Bullet-ed."
 
 ```
 [MGP-2] Scaffolded & Added Configuration Files
