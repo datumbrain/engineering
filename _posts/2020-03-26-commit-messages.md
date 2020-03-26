@@ -30,7 +30,7 @@ Commits can be too long or too short, depending on the work done in code against
 
 Commit title line should always be a summarised information lesser than 50 characters.
 
-> Why 50 Characters?
+## Why 50 Characters?
 
 50 characters is limit of characters some git applications have on their default zoom-ed page view. So it is better to keep it short to 50 characters rather seeing ellipses that cut off the title.
 
