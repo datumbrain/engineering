@@ -20,11 +20,12 @@ There is a task ID assigned to each task attempted. We do it normally through Tr
 
 Assuming we have a task in a project named "My Good Project", it will be assigned a three-letter code (by convention) followed by a hyphen and a task number. Such as, `MGP-1`.
 
-`MGP-1` will be prepended with commit message wrapped in square brackets as
+`MGP-1` will be prepended with pull request wrapped in square brackets as
 
 ```
 [MGP-1]
 ```
+Pull request will then be squashed and merged.
 
 # Title Line
 
@@ -57,13 +58,13 @@ smthing
 > "Stubborn as hell."
 
 ```
-[mgp-1]ds store added in git ignore
+ds store added in git ignore
 ```
 
 > "Won't follow the system. Rebellion."
 
 ```
-[MgP-1] adding `.DS_Store` in .gitignore  file
+adding `.DS_Store` in .gitignore  file
 ```
 
 ## Good Examples
@@ -71,20 +72,19 @@ smthing
 > "Contributing to the code."
 
 ```
-[MGP-1] Adding `.DS_Store` in .gitignore File
+Adding `.DS_Store` in .gitignore File
 ```
 
 > "Playing my part."
 
 ```
-[MGP-1] .DS_Store Added in .gitignore
+.DS_Store Added in .gitignore
 ```
 
 ## What Makes Commit Title, Perfect?
 
 * Title case such as "This Sentence is Having Title Case"
 * 50 characters or lesser
-* Having a task ID prepended wrapped with a square bracket followed by a single space
 
 # Description
 
@@ -97,7 +97,7 @@ So for the sake of helping them to understand them (and as lesser questions) you
 > "Too long & redundant."
 
 ```
-[MGP-2] Scaffolded & Added Configuration Files
+Scaffolded & Added Configuration Files
 
 Added configuration files and scaffolded the project, the HOCON boilerplate is all removed from the configuration files. Then moved towards working on defining project architecture for rest of the code, folders and files - basically.
 ```
@@ -107,7 +107,7 @@ Added configuration files and scaffolded the project, the HOCON boilerplate is a
 > "Perfect. Bullet-ed."
 
 ```
-[MGP-2] Scaffolded & Added Configuration Files
+Scaffolded & Added Configuration Files
 
 * Configuration segregated
 * Added basic project structure
