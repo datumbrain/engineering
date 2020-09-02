@@ -20,7 +20,7 @@ There is a task ID assigned to each task attempted. We do it normally through Tr
 
 Assuming we have a task in a project named "My Good Project", it will be assigned a three-letter code (by convention) followed by a hyphen and a task number. Such as, `MGP-1`.
 
-`MGP-1` will be prepended with pull request wrapped in square brackets as
+`MGP-1` will be prepended with pull request title, wrapped in square brackets as
 
 ```
 [MGP-1]
@@ -81,8 +81,9 @@ Adding `.DS_Store` in .gitignore File
 .DS_Store Added in .gitignore
 ```
 
-## What Makes Commit Title, Perfect?
+## Summary
 
+Commit title should have following properties:
 * Title case such as "This Sentence is Having Title Case"
 * 50 characters or lesser
 
@@ -114,8 +115,9 @@ Scaffolded & Added Configuration Files
 * Added README.md for instructions to run
 ```
 
-## What Makes Commit Description, Perfect?
+## Summary
 
+Commit description should have following properties:
 * Bullet-ed
 * Each line not ending with a dot
 * Each line telling something that is not already mentioned in lines above
